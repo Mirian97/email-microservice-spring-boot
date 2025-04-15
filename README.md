@@ -6,6 +6,8 @@
 	<img src="docs/mail.jpg" alt="Email Banner"/>
 </div>
 
+<br/>
+
 This project is a Spring Boot-based microservice designed to send emails using **Amazon Simple Email Service (SES)** 🚀. It provides a RESTful API to trigger email sending through HTTP requests, following a clean architecture pattern with clear separation of concerns. The microservice is lightweight, scalable, and perfect for integration in a microservices ecosystem 🌐.
 
 ## ✨ Features
