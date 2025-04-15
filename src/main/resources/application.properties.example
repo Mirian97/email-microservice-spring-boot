@@ -1,0 +1,7 @@
+spring.application.name=
+
+emailSource=
+
+aws.accessKeyId=
+aws.secretKey=
+aws.region=
