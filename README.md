@@ -79,9 +79,15 @@ emailSource=verified-email@example.com
 aws.accessKeyId=your-aws-access-key-id
 aws.secretKey=your-aws-secret-key
 aws.region=us-your-aws-region
+
+springdoc.api-docs.path=/swagger-ui.html
+springdoc.swagger-ui.enabled=true
+springdoc.api-docs.path=/api-docs
 ```
 
 For security, use environment variables or AWS Secrets Manager in production 🔐.
+
+If your your project is already running, you could check an online documentation with Swagger OpenApi, in this link <a>http://localhost:8080/swagger-ui/index.html</a>
 
 ## 🌍 API Endpoints
 
